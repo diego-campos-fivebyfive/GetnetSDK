@@ -1,5 +1,5 @@
 {
-  "name": "sices-aws/getnet-sdk",
+  "name": "diego-campos-fivebyfive/getnet-sdk",
   "description": "SDK da plataforma digital da GETNET",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
@@ -19,17 +19,9 @@
   },
   "authors": [
     {
-      "name": "Bruno Paz",
-      "email": "brunopaz@azpay.com.br"
+      "name": "Diego de Campos",
+      "email": "diego.campos@5by5.com.br"
     },
-    {
-      "name": "Edson Nascimento",
-      "email": "edson27bn@gmail.com"
-    },
-    {
-      "name": "Gianluca Bine",
-      "email": "gian_bine@hotmail.com"
-    }
   ],
   "scripts": {
     "test": "vendor/bin/phpunit",
