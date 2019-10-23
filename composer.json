@@ -21,7 +21,7 @@
     {
       "name": "Diego de Campos",
       "email": "diego.campos@5by5.com.br"
-    },
+    }
   ],
   "scripts": {
     "test": "vendor/bin/phpunit",
